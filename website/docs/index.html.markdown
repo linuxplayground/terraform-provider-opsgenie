@@ -17,7 +17,7 @@ Use the navigation to the left to read about the available resources.
 ## Example Usage
 
 ```hcl
-# Configure the OpenStack Provider
+# Configure the OpsGenie Provider
 provider "opsgenie" {
   api_key = "key"
 }
